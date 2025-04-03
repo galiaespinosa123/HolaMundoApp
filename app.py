@@ -2,4 +2,5 @@ import streamlit as st
 
 
 
-st.text("hola mundo 2")
+st.text("Hola mundo 2")
+st.markdown("Holis 2")
