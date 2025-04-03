@@ -1,6 +1,6 @@
 import streamlit as st
 
 
-
-st.text("Hola mundo 2")
+prompt = st.text_area("escirbe tu prompt")
+st.text(prompt)
 st.markdown("Holis 2")
